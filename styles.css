@@ -37,7 +37,7 @@ body {
 }
 
 /* Stop Animations During Window Resizing Trick
- * https://css-tricks.com/stop-animations-during-window-resizing/*/
+ * https://css-tricks.com/stop-animations-during-window-resizing/ */
 .resize-animation-stopper * {
     animation: none !important;
     transition: none !important;
